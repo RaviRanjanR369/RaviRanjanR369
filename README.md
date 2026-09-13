@@ -8,7 +8,7 @@ SAP CX, SAP Service Cloud, enterprise integrations and SAP BTP.
 I am currently building enterprise AI applications that connect
 Generative AI with real business systems.
 
-## 🔧 Technical Skills
+##  Technical Skills
 
 - SAP CX, Sales Cloud and Service Cloud
 - SAP BTP, CAP, RAP, CDS and Integration
@@ -17,7 +17,7 @@ Generative AI with real business systems.
 - React and enterprise application development
 - Technical architecture and team leadership
 
-## 🚀 Featured Project
+## Featured Project
 
 ### Enterprise Knowledge Assistant
 
@@ -28,12 +28,12 @@ context using vector search and generates grounded answers.
 
 [View the project](https://github.com/RaviRanjanR369/EnterpriseKnowledgeAssistant)
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - SAP Business AI and Joule
 - Agentic AI and enterprise AI architecture
 - Advanced RAG and AI application development
 
-## 🤝 Connect With Me
+## Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/raviranjanr/)
