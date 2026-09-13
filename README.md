@@ -1,4 +1,4 @@
-# Hi, I'm Ravi Ranjan R 👋
+# Hi, I'm Ravi Ranjan R 
 
 ### SAP CX & BTP Technical Lead | Enterprise AI & RAG Developer
 
